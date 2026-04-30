@@ -1,6 +1,9 @@
-# Atividades em C
-
-Repositório com exercícios de programação em linguagem C.
+<h1 align="center">
+  Atividades em 
+  <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" width="40"/>
+</h1>
+Repositório com exercícios de programação em C
+           
 
 ## Estrutura dos Diretórios
 
@@ -8,17 +11,18 @@ Repositório com exercícios de programação em linguagem C.
 
 | Diretório | Descrição |
 |-----------|-----------|
+| `Exercicio-tipo-de-dados/` | Exercícios sobre tipos de dados |
 | `exercicio 2/` | Exercícios com estruturas condicionais (if/else) |
 | `exercicio 3/` | Exercícios com switch e condicionais |
 | `exercicio 4/` | Exercícios com loops (for) |
-| `Exercicio-tipo-de-dados/` | Exercícios sobre tipos de dados |
 
-### Laboratórios
+
+### Listas
 
 | Diretório | Descrição |
 |-----------|-----------|
-| `L2-P1/` | Laboratório 2 - Primeiros passos |
-| `L3-P1/` | Laboratório 3 - Estruturas de repetição |
+| `L2-P1/` | Lista 2 - Lista com estruturas condicionais (if/else) e switch |
+| `L3-P1/` | Lista 3 - Estruturas de repetição |
 
 ### Revisões
 
@@ -56,4 +60,7 @@ gcc arquivo.c -o nome_executavel
 
 ## Autor
 
-Willian - Atividades de programação em C
+Luiz Willian - Atividades de programação em C
+<h3>
+  <img src="https://img.icons8.com/?size=100&id=E2KVOMc77Geo&format=png&color=000000" width="60"/> https://github.com/L-willian
+</h3>
