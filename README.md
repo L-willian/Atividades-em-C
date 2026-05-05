@@ -63,6 +63,12 @@ gcc arquivo.c -o nome_executavel
 ## Autor
 
 Luiz Willian - Atividades de programação em C
-<h4>
-  <img src="https://img.icons8.com/?size=100&id=E2KVOMc77Geo&format=png&color=000000" width="45"/> https://github.com/L-willian
-</h4>
+<h1>
+  <p>
+  <a herf="https://github.com/L-willian">
+  <img src="https://img.icons8.com/?size=100&id=E2KVOMc77Geo&format=png&color=000000" width="65"/></a> 
+  </p>
+  <a herf="https://www.linkedin.com/in/willian-soares-dev">
+  <img width="50"  alt="image" src="https://github.com/user-attachments/assets/773f8694-194c-43b8-a1e5-24359a90e223" /></a>
+
+</h1>
