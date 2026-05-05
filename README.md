@@ -11,7 +11,6 @@ Repositório com exercícios de programação em C
 
 | Diretório | Descrição |
 |-----------|-----------|
-
 | `Exercício 1/` | Exercícios com estruturas condicionais (if/else) |
 | `Exercício 2/` | Exercícios com switch e condicionais |
 | `Exercício 3/` | Exercícios com loops (for) |
