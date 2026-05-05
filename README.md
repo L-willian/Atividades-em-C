@@ -64,10 +64,14 @@ gcc arquivo.c -o nome_executavel
 Luiz Willian - Atividades de programação em C
 <h1>
   <p>
-  <a herf="https://github.com/L-willian">
-  <img src="https://img.icons8.com/?size=100&id=E2KVOMc77Geo&format=png&color=000000" width="65"/></a> 
+    <a href="https://github.com/L-willian/">
+      <img src="https://img.icons8.com/?size=100&id=E2KVOMc77Geo&format=png&color=000000" width="65">
+    </a>
   </p>
-  <a herf="https://www.linkedin.com/in/willian-soares-dev">
-  <img width="50"  alt="image" src="https://github.com/user-attachments/assets/773f8694-194c-43b8-a1e5-24359a90e223" /></a>
 
+  <p>
+    <a href="https://www.linkedin.com/in/willian-soares-dev/">
+      <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="50">
+    </a>
+  </p>
 </h1>
