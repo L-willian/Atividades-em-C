@@ -11,32 +11,32 @@ Repositório com exercícios de programação em C
 
 | Diretório | Descrição |
 |-----------|-----------|
-| `Exercício 1/` | Exercícios com estruturas condicionais (if/else) |
-| `Exercício 2/` | Exercícios com switch e condicionais |
-| `Exercício 3/` | Exercícios com loops (for) |
-| `Exercício 4/` | Exercícios com While | 
+| `Exercício 1` | Exercícios com estruturas condicionais (if/else) |
+| `Exercício 2` | Exercícios com switch e condicionais |
+| `Exercício 3` | Exercícios com loops (for) |
+| `Exercício 4` | Exercícios com While | 
 
 
 ### Listas
 
 | Diretório | Descrição |
 |-----------|-----------|
-| `Lista 1/` | Lista 1 - Tipos de dados |
-| `Lista 2/` | Lista 2 - Estruturas condicionais (if/else) e switch |
-| `Lista 3/` | Lista 3 - Estruturas de repetição |
+| `Lista 1` | Lista 1 - Tipos de dados |
+| `Lista 2` | Lista 2 - Estruturas condicionais (if/else) e switch |
+| `Lista 3` | Lista 3 - Estruturas de repetição |
 
 ### Revisões
 
 | Diretório | Descrição |
 |-----------|-----------|
-| `Revisão 1/` | Exercícios de revisão (15 questões) |
-| `Revisão 2/` | Segunda lista de revisão |
+| `Revisão 1` | Exercícios de revisão (15 questões) |
+| `Revisão 2` | Segunda lista de revisão |
 
 ### Atividades
 
 | Diretório | Descrição |
 |-----------|-----------|
-| `Atividades Extras/` | Atividades complementares |
+| `Atividades Extras` | Atividades complementares |
 
 ## Tópicos Abordados
 
