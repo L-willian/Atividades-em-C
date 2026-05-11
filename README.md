@@ -15,6 +15,7 @@ Repositório com exercícios de programação em C
 | `Exercício 2` | Exercícios com switch e condicionais |
 | `Exercício 3` | Exercícios com loops (for) |
 | `Exercício 4` | Exercícios com While | 
+| `Exercício 5` | Exercícios com Função e While |
 
 
 ### Listas
