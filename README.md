@@ -16,6 +16,7 @@ Repositório com exercícios de programação em C
 | `Exercício 3` | Exercícios com loops (for) |
 | `Exercício 4` | Exercícios com While | 
 | `Exercício 5` | Exercícios com Função e While |
+| `Exercício 6` | Exercícios com Função e Ponterio |
 
 
 ### Listas
@@ -49,6 +50,9 @@ Repositório com exercícios de programação em C
 - **Operações Matemáticas**: soma, subtração, multiplicação, divisão, fatorial, tabuada.
 - **Conversões**: unidades de medida (cm/m, kg/g).
 - **Jogos Simples**: Pedra, Papel, Tesoura.
+- **Funções e Procedimentos**: funções com retorno (int, float) e procedimentos (void).
+- **Ponteiros**: declaração, operadores "*" e "&", acesso indireto à memória.
+- **Vetores e Matrizes**: leitura, escrita, soma, média e impressão inversa.
 
 ## Como Compilar e Executar
 
