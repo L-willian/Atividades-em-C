@@ -1,14 +1,14 @@
-# Ignorar executáveis sem extensão
+# Ignora arquivos sem extensão (executáveis)
 *.*
 
-# Permitir diretórios
-!*/
-
-# Permitir arquivos fonte C
+# Permite arquivos .c
 !*.c
 
-# Permitir README
+# Permite markdown
 !*.md
 
-# Permitir gitignore
+# Permite pastas
+!*/
+
+# Permite o próprio gitignore
 !.gitignore
