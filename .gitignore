@@ -1,0 +1,14 @@
+# Ignorar executáveis sem extensão
+*
+
+# Permitir diretórios
+!*/
+
+# Permitir arquivos fonte C
+!*.c
+
+# Permitir README
+!*.md
+
+# Permitir gitignore
+!.gitignore
