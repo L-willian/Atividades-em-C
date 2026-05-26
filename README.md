@@ -17,6 +17,7 @@ Repositório com exercícios de programação em C
 | `Exercício 4` | Exercícios com While | 
 | `Exercício 5` | Exercícios com Função e While |
 | `Exercício 6` | Exercícios com Função e Ponterio |
+| `Exercício 7` | Exercícios com Struct, Alocação Dinâmica e Recursão |
 
 
 ### Listas
@@ -43,16 +44,17 @@ Repositório com exercícios de programação em C
 ## Tópicos Abordados
 
 - **Variáveis e Tipos de Dados**: int, float, char.
-- **Operadores**: aritméticos, relacionais, lógicos.
+- **Operadores**: Aritméticos, relacionais, lógicos.
 - **Estruturas Condicionais**: if, else, switch.
 - **Estruturas de Repetição**: for, while.
 - **Entrada e Saída**: printf, scanf.
-- **Operações Matemáticas**: soma, subtração, multiplicação, divisão, fatorial, tabuada.
-- **Conversões**: unidades de medida (cm/m, kg/g).
+- **Operações Matemáticas**: Soma, subtração, multiplicação, divisão, fatorial, tabuada.
+- **Conversões**: Unidades de medida (cm/m, kg/g).
 - **Jogos Simples**: Pedra, Papel, Tesoura.
-- **Funções e Procedimentos**: funções com retorno (int, float) e procedimentos (void).
-- **Ponteiros**: declaração, operadores "*" e "&", acesso indireto à memória.
-- **Vetores e Matrizes**: leitura, escrita, soma, média e impressão inversa.
+- **Funções e Procedimentos**: Funções com retorno (int, float) e procedimentos (void).
+- **Ponteiros**: Declaração, operadores "*" e "&", acesso indireto à memória.
+- **Vetores e Matrizes**: Leitura, escrita, soma, média e impressão inversa.
+- **Estrutura de Dados**: Struct, Alocação Dinâmica e Recursão.
 
 ## Como Compilar e Executar
 
