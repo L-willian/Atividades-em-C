@@ -56,7 +56,7 @@ Repositório com exercícios de programação em C
 - **Ponteiros**: Declaração, operadores "*" e "&", acesso indireto à memória.
 - **Vetores e Matrizes**: Leitura, escrita, soma, média e impressão inversa.
 - **Estrutura de Dados**: Struct, Alocação Dinâmica e Recursão.
-- ** Bibliotecas Básicas**: stdio.h, stdlib.h e string.h.
+- **Bibliotecas Básicas**: stdio.h, stdlib.h e string.h.
 
 ## Como Compilar e Executar
 
