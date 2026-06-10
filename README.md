@@ -64,24 +64,34 @@ Repositório com exercícios, listas e atividades de programação em C, abrange
 ## 🔍 Projeto: Busca Binária
 
 ### Descrição
-Implementação de algoritmo de busca binária em C com duas variações:
+Implementação de algoritmo de busca binária em C com três variações progressivas:
 
 | Arquivo | Descrição |
 |---------|-----------|
 | **Busca Binária 1.c** | Entrada do usuário — permite inserir tamanho e elementos do vetor |
 | **Busca Binária 2.c** | Vetor predefinido — busca em vetor ordenado de 1 a 70 |
+| **Busca Binária 3.c** | Leitura de arquivo CSV — busca em 10.000 elementos do arquivo |
 
 ### Características
 - ✅ Algoritmo eficiente com complexidade O(log n)
 - ✅ Requer vetor ordenado
 - ✅ Retorna índice do elemento ou -1 se não encontrado
 - ✅ Implementação iterativa com cálculo seguro do meio
+- ✅ Variação com leitura de arquivo CSV (Busca Binária 3)
 
 ### Conceitos Aplicados
 - Divisão e conquista
 - Busca otimizada
 - Manipulação de vetores
 - Funções com retorno
+- Leitura de arquivos (CSV)
+- Trabalho com grandes datasets (10.000 elementos)
+
+### Arquivos do Projeto
+- `Busca Binária 1.c` — Implementação básica com entrada do usuário
+- `Busca Binária 2.c` — Implementação com vetor predefinido
+- `Busca Binária 3.c` — Implementação com leitura de arquivo CSV
+- `numeros_1_a_10000_sem_cabecalho.csv` — Dataset de teste com 10.000 números
 
 ---
 
@@ -171,7 +181,7 @@ Exercício 6-8 → Revisão 1-2 → Atividades Extras
 - **Listas de Exercícios**: 3 (22 questões)
 - **Revisões**: 2 (30 questões)
 - **Atividades Extras**: 2 questões
-- **Projeto Especial**: Busca Binária (2 implementações)
+- **Projeto Especial**: Busca Binária (3 implementações progressivas)
 
 ### Estrutura de Arquivos
 ```
