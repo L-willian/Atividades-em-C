@@ -8,18 +8,22 @@ resultado da busca binaria, indicando se o valor foi encontrado e em qual indice
 #include <string.h>
 
 // Função de busca binaria
+
 int buscaBinaria(int vetor[], int tamanho, int valor)
 {
     int inicio = 0;
     int fim = tamanho - 1;
+    int tentativas = 0;
 
     while (inicio <= fim)
     {
         int meio = inicio + (fim - inicio) / 2;
+        tentativas++;
 
         if (vetor[meio] == valor)
         {
-            return meio; // Valor encontrado, retorna o indice
+            printf("Encontrado em %d tentativa(s).\n", tentativas); // sempre imprime 0
+            return meio;
         }
         else if (vetor[meio] < valor)
         {
@@ -30,7 +34,7 @@ int buscaBinaria(int vetor[], int tamanho, int valor)
             fim = meio - 1; // Continua a busca na metade esquerda
         }
     }
-
+    printf("Nao encontrato em %d tentativas. \n", tentativas);
     return -1; // Valor nao encontrado
 }
 
@@ -59,7 +63,7 @@ int main()
     int vetor[10000];
     int i = 0;
 
-    while (fscanf(arquivo, "%d", &vetor[i]) == 1 && i < 10000)
+    while (i < 10000 && fscanf(arquivo, "%d,", &vetor[i]) == 1)
     {
         i++;
     }

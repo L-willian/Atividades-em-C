@@ -9,13 +9,17 @@ int buscaBinaria(int vetor[], int tamanho, int valor)
 {
     int inicio = 0;
     int fim = tamanho - 1;
+    int tentativas = 0;
 
     while (inicio <= fim)
     {
         int meio = inicio + (fim - inicio) / 2;
 
+        tentativas++;
+
         if (vetor[meio] == valor)
         {
+            printf("Valor encontrado com %d tentativas.", tentativas);
             return meio; // Valor encontrado, retorna o indice
         }
         else if (vetor[meio] < valor)
@@ -24,6 +28,7 @@ int buscaBinaria(int vetor[], int tamanho, int valor)
         }
         else
         {
+            printf("Valor nao encontrado com %d tentativas.", tentativas);
             fim = meio - 1; // Continua a busca na metade esquerda
         }
     }
