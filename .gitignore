@@ -1,5 +1,5 @@
-# Ignora arquivos sem extensão (executáveis)
-*.*
+# Ignora todos os arquivos 
+*
 
 # Permite arquivos .c
 !*.c
