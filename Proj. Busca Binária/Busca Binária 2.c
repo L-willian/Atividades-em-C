@@ -1,5 +1,5 @@
 /*/
-Busca Binaria em C, utilizando um vetor predefinido de 70 elementos ordenados de 1 a 70, e buscando o valor 35.
+Busca Binaria em C, utilizando um vetor predefinido de 70 elementos ordenados de 1 a 70.
 O programa exibe o vetor, o valor a ser buscado e o resultado da busca binaria, indicando se o valor foi encontrado e em qual indice, ou se nao foi encontrado no vetor.
 /*/
 
