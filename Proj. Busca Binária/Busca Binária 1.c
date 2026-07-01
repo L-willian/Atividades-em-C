@@ -28,11 +28,11 @@ int buscaBinaria(int vetor[], int tamanho, int valor)
         }
         else
         {
-            printf("Valor nao encontrado com %d tentativas.", tentativas);
+
             fim = meio - 1; // Continua a busca na metade esquerda
         }
     }
-
+    printf("Valor nao encontrado com %d tentativas.", tentativas);
     return -1; // Valor nao encontrado
 }
 
@@ -70,7 +70,7 @@ int main()
     }
     else
     {
-        printf("Valor %d nao encontrado no vetor.\n", valor);
+        printf("\nValor %d nao encontrado no vetor.\n", valor);
     }
 
     return 0;
