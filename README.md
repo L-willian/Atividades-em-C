@@ -7,7 +7,7 @@
 [![Arquivos](https://img.shields.io/badge/Arquivos-.c-555)](.)
 [![License](https://img.shields.io/badge/Licen%C3%A7a-MIT-green)](#licença)
 
-**Repositório concluído e congelado — não receberá novas alterações.**
+**Repositório concluído**
 
 [Visão geral](#visão-geral) · [Estrutura](#estrutura-do-repositório) · [Compilação](#compilação-e-execução) · [Projeto destaque](#projeto-busca-binária) · [Autor](#autor)
 
