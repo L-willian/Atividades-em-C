@@ -30,8 +30,8 @@ int buscaBinaria(int vetor[], int tamanho, int valor)
             fim = meio - 1;
         }
     }
-
-       return -1;
+    printf("Valor nao encontrado com %d tentativas.", tentativas);
+    return -1;
 }
 
 int main()
